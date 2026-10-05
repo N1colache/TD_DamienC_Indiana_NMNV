@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/NicolasRIGAUDIE/Documents/04_UnrealP/TD_DamienC_Indiana_NMN/IndianaProject_LD/Content/Blueprint/BP_FirstPersonCameraManager.uasset",
+				"C:/Users/NicolasRIGAUDIE/Documents/04_UnrealP/TD_DamienC_Indiana_NMN/IndianaProject_LD/Content/Blueprint/BP_IndianaCharacter.uasset",
 				"C:/Users/rigau/Documents/02_UnrealP/TD_DamienC_Indiana_NMNV/IndianaProject_LD/Content/Graphics/LevelPrototyping/Interactable/Door/BP_DoorFrame.uasset",
 				"C:/Users/rigau/Documents/02_UnrealP/TD_DamienC_Indiana_NMNV/IndianaProject_LD/Content/Graphics/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.uasset",
 				"C:/Users/rigau/Documents/02_UnrealP/TD_DamienC_Indiana_NMNV/IndianaProject_LD/Content/Graphics/LevelPrototyping/Interactable/Target/BP_WobbleTarget.uasset",
